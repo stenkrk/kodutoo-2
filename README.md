@@ -1,7 +1,4 @@
-# kodutoo-2
-Täiusta tunnis loodud typer'i rakendust.
-
-Tähtaeg: 05.05.2026 23:59
+Pathway: http://greeny.cs.tlu.ee/~stenkrk/Kodutoo_2.1/index.html
 
 # Kõik nõuded täidetud, siis 30 punkti.
 
